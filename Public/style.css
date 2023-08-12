@@ -1,0 +1,97 @@
+body{
+    background-color:#ebe9dd;
+}
+.title {
+    text-align: center;
+    font-family: 'Kalam', cursive;
+    text-transform: uppercase;
+    color: #96B6C5;
+}
+.intro{
+    font-family: 'Playfair Display', serif;
+    text-align:center;
+    background-color: #EEE0C9;
+}
+#ourphotos{
+    text-align: center;
+    color:#96B6C5;
+    font-family: 'Playfair Display', serif;
+}
+#loveletter{
+    text-align: center;
+    color:#96B6C5;
+    font-family: 'Playfair Display', serif;
+}
+#bdaysurprise{
+    text-align: center;
+    color:#96B6C5;
+    font-family: 'Playfair Display', serif;
+}
+#center{
+    border: 7px solid #ADC4CE;
+    height: 400px;
+    width: 300px
+    
+}
+.image{
+    width:50%;
+    margin-left:38%
+}
+#A{
+    height: 400px;
+    width: 300px;
+}
+#firstdate{
+    height: 400px;
+    width: 350px; 
+    border: 7px solid #ADC4CE;
+}
+.ourphotos{
+    font-family: 'Playfair Display', serif;
+    text-align:center;
+    background-color: #EEE0C9;
+}
+#iceberg{
+    height: 350px;
+    width: 485px; 
+    border: 7px solid #ADC4CE;
+}
+#wakingup{
+    height: 420px;
+    width: 360px; 
+    border: 7px solid #ADC4CE;
+}
+#favourite{
+    height: 440px;
+    width: 350px; 
+    border: 7px solid #ADC4CE;
+}
+#trip{
+    height: 450px;
+    width: 350px; 
+    border: 7px solid #ADC4CE;
+}
+#cake{
+    height: 350px;
+    width: 350px; 
+    border: 7px solid #ADC4CE;
+}
+#title2{
+    font-family: 'Kalam', cursive;
+    text-transform: uppercase;
+    color: #96B6C5;
+}
+.memory{
+    font-family: 'Playfair Display', serif;
+    font-size:16pt
+}
+#signiture{
+    height: 75px;
+    margin-left: 45px;
+}
+#bday{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    text-transform:uppercase;
+    background-color:#EEE0C9
+}
